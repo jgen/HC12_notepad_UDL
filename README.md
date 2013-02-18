@@ -1,7 +1,7 @@
-HC12 Assembly
-=============
+HC12 Assembly Language
+======================
 
-Syntax Highlighting for the [HC12](http://en.wikipedia.org/wiki/Freescale_68HC12) Assembly Language.
+This provides Syntax Highlighting for the [HC12](http://en.wikipedia.org/wiki/Freescale_68HC12) Assembly Language.
 
 This is a User Defined Language(UDL) file for [Notepad++](http://notepad-plus-plus.org/) that defines syntax highlighting for the HC12 Assembly Language.
 
